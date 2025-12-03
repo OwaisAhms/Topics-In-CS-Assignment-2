@@ -1,0 +1,17 @@
+[
+  {"input": "What is the main topic of chapter 1?", "expect": "chapter"},
+  {"input": "Summarize section 2", "expect": "summary"},
+  {"input": "Where does the author define the key term?", "expect": "define"},
+  {"input": "What are the three steps explained?", "expect": "steps"},
+  {"input": "Explain the equation in section 3.", "expect": "equation"},
+  {"input": "What is the definition of entropy?", "expect": "entropy"},
+  {"input": "How does backpropagation work?", "expect": "backprop"},
+  {"input": "What is supervised learning?", "expect": "learning"},
+  {"input": "What datasets were referenced?", "expect": "data"},
+  {"input": "Explain overfitting.", "expect": "overfit"},
+  {"input": "Give an example of a loss function.", "expect": "loss"},
+  {"input": "What are activation functions?", "expect": "activation"},
+  {"input": "Describe neural networks.", "expect": "neural"},
+  {"input": "What problem is being solved?", "expect": "problem"},
+  {"input": "Provide a citation for the claim.", "expect": "[source"}
+]
